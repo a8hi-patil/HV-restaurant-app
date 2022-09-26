@@ -1,0 +1,13 @@
+.car {
+  display: flex;
+  border: 2px solid red;
+}
+.cart {
+  margin: 10px;
+  flex-basis: 33%;
+  background: rgba(232, 181, 181, 0.5);
+  border-radius: 10px;
+}
+p {
+  font-size: 25px;
+}
